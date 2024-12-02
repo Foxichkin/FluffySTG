@@ -1,0 +1,3420 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"aa" = (
+/turf/open/misc/ice/icemoon,
+/area/template_noop)
+"ab" = (
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"ac" = (
+/obj/structure/cable,
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/wood/parquet,
+/area/template_noop)
+"ad" = (
+/obj/structure/cable,
+/obj/structure/chair/sofa/right/maroon{
+	dir = 1
+	},
+/turf/open/floor/wood/parquet,
+/area/template_noop)
+"ae" = (
+/obj/machinery/portable_atmospherics/canister/air,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"af" = (
+/turf/open/floor/asphalt,
+/area/template_noop)
+"ag" = (
+/obj/structure/flora/tree/pine/style_random{
+	icon_state = "pine_3"
+	},
+/turf/open/misc/snow,
+/area/template_noop)
+"ah" = (
+/turf/open/misc/snow,
+/area/template_noop)
+"ai" = (
+/obj/structure/flora/tree/pine/style_random{
+	icon_state = "pine_2"
+	},
+/turf/open/misc/snow,
+/area/template_noop)
+"ak" = (
+/obj/structure/flora/tree/pine/style_random,
+/turf/open/misc/snow,
+/area/template_noop)
+"al" = (
+/obj/structure/cable,
+/obj/machinery/power/apc/auto_name/directional/north,
+/obj/machinery/power/rtg/old_station{
+	power_gen = 1500
+	},
+/obj/effect/turf_decal/weather/snow,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/template_noop)
+"am" = (
+/obj/structure/flora/grass/both/style_random,
+/turf/open/misc/snow,
+/area/template_noop)
+"an" = (
+/obj/structure/toilet{
+	pixel_y = 15
+	},
+/obj/effect/turf_decal/siding/wood/end,
+/obj/machinery/light/floor,
+/turf/open/floor/carpet/royalblue,
+/area/template_noop)
+"ao" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
+	dir = 4
+	},
+/turf/open/floor/plastic,
+/area/template_noop)
+"ap" = (
+/obj/structure/closet/crate/trashcart/laundry,
+/turf/open/floor/plastic,
+/area/template_noop)
+"aq" = (
+/obj/effect/spawner/structure/window/reinforced/no_firelock{
+	color = "#663300"
+	},
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/template_noop)
+"ar" = (
+/obj/structure/cable,
+/obj/effect/turf_decal/weather/snow,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold/supply/hidden/layer4,
+/obj/machinery/door/airlock/maintenance_hatch,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood,
+/area/template_noop)
+"as" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/structure/table/wood/fancy/red,
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
+	dir = 1
+	},
+/turf/open/floor/wood/parquet,
+/area/template_noop)
+"at" = (
+/obj/item/grown/log/tree{
+	pixel_x = -4;
+	pixel_y = -4
+	},
+/obj/item/grown/log/tree{
+	pixel_x = -1
+	},
+/obj/item/grown/log/tree{
+	pixel_x = -5
+	},
+/obj/item/grown/log/tree{
+	pixel_x = 3;
+	pixel_y = -5
+	},
+/obj/item/grown/log/tree{
+	pixel_x = -2;
+	pixel_y = 4
+	},
+/obj/item/grown/log/tree{
+	pixel_x = -4;
+	pixel_y = 5
+	},
+/obj/structure/flora/tree/stump{
+	name = "pine tree stump"
+	},
+/turf/open/misc/snow,
+/area/template_noop)
+"au" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Bronze"
+	},
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,
+/obj/item/ammo_box/strilka310,
+/obj/item/ammo_box/strilka310,
+/obj/item/ammo_box/strilka310,
+/obj/item/ammo_box/strilka310,
+/obj/item/gun/ballistic/rifle/boltaction/lionhunter,
+/obj/structure/closet/secure_closet/personal/cabinet,
+/turf/open/floor/wood,
+/area/template_noop)
+"av" = (
+/obj/machinery/washing_machine,
+/obj/structure/towel_bin{
+	pixel_y = 12
+	},
+/turf/open/floor/plastic,
+/area/template_noop)
+"aw" = (
+/obj/structure/bedsheetbin/basket,
+/turf/open/floor/plastic,
+/area/template_noop)
+"ax" = (
+/obj/structure/flora/grass/brown/style_random,
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"ay" = (
+/turf/closed/wall/mineral/stone,
+/area/template_noop)
+"az" = (
+/obj/structure/table/reinforced,
+/obj/item/storage/box/coffeepack/robusta,
+/obj/item/storage/box/coffeepack/robusta{
+	pixel_x = -5
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/template_noop)
+"aA" = (
+/obj/structure/table/wood/fancy/red,
+/obj/effect/turf_decal/siding/wood{
+	dir = 10
+	},
+/turf/open/floor/wood/parquet,
+/area/template_noop)
+"aB" = (
+/obj/structure/flora/grass/both,
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"aC" = (
+/obj/structure/flora/tree/pine/style_random{
+	icon_state = "pine_3"
+	},
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"aD" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/obj/structure/bookcase/random/reference,
+/obj/item/book,
+/obj/item/book,
+/obj/item/book,
+/turf/open/floor/plating,
+/area/template_noop)
+"aE" = (
+/obj/effect/turf_decal/weather/snow/corner,
+/turf/open/floor/asphalt,
+/area/template_noop)
+"aF" = (
+/obj/structure/fans/tiny,
+/obj/machinery/door/airlock/wood,
+/turf/open/floor/stone,
+/area/template_noop)
+"aG" = (
+/obj/machinery/space_heater{
+	icon_state = "sheater-standby"
+	},
+/turf/open/floor/carpet/donk,
+/area/template_noop)
+"aH" = (
+/obj/structure/aquarium,
+/turf/open/floor/wood,
+/area/template_noop)
+"aI" = (
+/obj/structure/chair/sofa/middle/maroon,
+/turf/open/floor/wood,
+/area/template_noop)
+"aJ" = (
+/turf/open/floor/stone,
+/area/template_noop)
+"aK" = (
+/obj/structure/barricade/wooden/snowed,
+/turf/open/misc/ice/icemoon,
+/area/template_noop)
+"aL" = (
+/obj/structure/table/wood/fancy/red,
+/obj/effect/turf_decal/siding/wood{
+	dir = 6
+	},
+/turf/open/floor/wood/parquet,
+/area/template_noop)
+"aM" = (
+/obj/structure/stairs/wood{
+	dir = 1
+	},
+/obj/structure/railing{
+	dir = 4;
+	color = "#663300"
+	},
+/obj/structure/railing{
+	dir = 8;
+	color = "#663300"
+	},
+/turf/open/indestructible/stone,
+/area/template_noop)
+"aN" = (
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"aO" = (
+/obj/structure/flora/grass/both/style_random,
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"aP" = (
+/obj/structure/flora/grass/both/style_3,
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"aQ" = (
+/obj/structure/barricade/wooden/snowed,
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"aR" = (
+/turf/open/floor/wood/large{
+	color = "#663300";
+	name = "roof"
+	},
+/area/template_noop)
+"aS" = (
+/obj/item/toy/plush/nova/ian/small,
+/turf/open/misc/snow,
+/area/template_noop)
+"aT" = (
+/obj/structure/cable,
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"aU" = (
+/obj/structure/cable,
+/obj/machinery/photocopier,
+/turf/open/floor/wood,
+/area/template_noop)
+"aV" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/wood/parquet,
+/area/template_noop)
+"aW" = (
+/turf/template_noop,
+/area/template_noop)
+"aX" = (
+/obj/structure/fence,
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"aY" = (
+/obj/structure/bookcase/random,
+/obj/item/book,
+/obj/item/book,
+/obj/item/book,
+/turf/open/floor/wood,
+/area/template_noop)
+"aZ" = (
+/obj/structure/cat_house{
+	dir = 4
+	},
+/mob/living/basic/pet/cat{
+	name = "Sol"
+	},
+/turf/open/floor/wood,
+/area/template_noop)
+"ba" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"bb" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/obj/effect/spawner/random/trash/grime,
+/turf/open/floor/asphalt,
+/area/template_noop)
+"bc" = (
+/obj/machinery/door/window/survival_pod/left/directional/north,
+/obj/structure/window/reinforced/survival_pod/spawner/directional/east,
+/obj/structure/window/reinforced/survival_pod/spawner/directional/west,
+/obj/machinery/shower/directional/east{
+	pixel_x = -12;
+	pixel_y = -3
+	},
+/obj/structure/drain,
+/obj/structure/curtain{
+	color = "#AC0000"
+	},
+/obj/effect/spawner/random/trash/soap,
+/turf/open/floor/plastic,
+/area/template_noop)
+"bd" = (
+/obj/structure/flora/tree/pine/style_random,
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"bw" = (
+/obj/structure/cable,
+/turf/open/floor/carpet/donk,
+/area/template_noop)
+"bC" = (
+/obj/structure/fans/tiny,
+/obj/structure/mineral_door/wood,
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"bE" = (
+/obj/structure/cable,
+/turf/open/floor/wood,
+/area/template_noop)
+"cj" = (
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 6
+	},
+/turf/open/floor/asphalt,
+/area/template_noop)
+"cv" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/structure/cable,
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"dI" = (
+/obj/structure/fence/corner,
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"dK" = (
+/obj/structure/table,
+/obj/item/storage/fancy/donut_box{
+	pixel_y = 5
+	},
+/turf/open/floor/carpet/black,
+/area/template_noop)
+"dP" = (
+/obj/structure/closet/crate/trashcart/filled,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/asphalt,
+/area/template_noop)
+"dV" = (
+/obj/item/flashlight/lantern,
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"dW" = (
+/obj/structure/window/paperframe,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"eg" = (
+/obj/structure/chair/sofa/corp/left{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/template_noop)
+"el" = (
+/obj/structure/fence{
+	dir = 4
+	},
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"en" = (
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 8
+	},
+/turf/open/floor/asphalt,
+/area/template_noop)
+"eR" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/turf/open/floor/wood,
+/area/template_noop)
+"fj" = (
+/obj/machinery/space_heater{
+	icon_state = "sheater-standby"
+	},
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Bronze"
+	},
+/turf/open/floor/wood,
+/area/template_noop)
+"fq" = (
+/obj/structure/table/wood,
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Bronze"
+	},
+/obj/machinery/atmospherics/components/unary/vent_pump/high_volume/on/layer4,
+/obj/structure/extinguisher_cabinet/directional{
+	pixel_y = 23
+	},
+/turf/open/floor/wood,
+/area/template_noop)
+"ft" = (
+/obj/structure/table,
+/obj/item/storage/fancy/rollingpapers,
+/obj/item/storage/fancy/rollingpapers{
+	pixel_x = 10;
+	pixel_y = 9
+	},
+/obj/item/storage/fancy/rollingpapers{
+	pixel_x = 5;
+	pixel_y = 5
+	},
+/obj/item/storage/fancy/rollingpapers{
+	pixel_x = -5;
+	pixel_y = -4
+	},
+/turf/open/floor/carpet/black,
+/area/template_noop)
+"fD" = (
+/obj/effect/spawner/random/food_or_drink/seed,
+/obj/effect/spawner/random/food_or_drink/seed,
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"fN" = (
+/obj/structure/chair/sofa/corp/right{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/template_noop)
+"fT" = (
+/obj/structure/chair/sofa/corp/corner{
+	dir = 8
+	},
+/turf/open/floor/carpet/red,
+/area/template_noop)
+"fZ" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 5
+	},
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"gc" = (
+/obj/structure/cable,
+/obj/structure/chair/sofa/left/maroon{
+	dir = 1
+	},
+/turf/open/floor/wood/parquet,
+/area/template_noop)
+"gw" = (
+/obj/structure/fence/corner{
+	dir = 5
+	},
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"gF" = (
+/obj/structure/bed/double,
+/obj/item/pillow{
+	pixel_x = -5;
+	pixel_y = -17
+	},
+/obj/item/pillow,
+/obj/item/pillow{
+	pixel_x = -4;
+	pixel_y = 9
+	},
+/obj/item/pillow{
+	pixel_x = -1;
+	pixel_y = -7
+	},
+/obj/item/bedsheet/hos/double{
+	name = "crimson bedsheet"
+	},
+/obj/item/clothing/sextoy/condom,
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Bronze"
+	},
+/obj/structure/sign/poster/contraband/robust_softdrinks/directional/east,
+/obj/effect/decal/cleanable/cum/femcum,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"gO" = (
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 4
+	},
+/turf/open/floor/asphalt,
+/area/template_noop)
+"hf" = (
+/obj/item/trash/boritos,
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"hh" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood,
+/obj/machinery/light/floor,
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"hj" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/structure/closet{
+	pixel_x = -11
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/template_noop)
+"hq" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/visible/layer2,
+/turf/closed/mineral/random/snow,
+/area/template_noop)
+"hz" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/obj/structure/bookcase/random/nonfiction,
+/obj/item/book,
+/obj/item/book,
+/obj/item/book,
+/turf/open/floor/plating,
+/area/template_noop)
+"hI" = (
+/obj/structure/railing/wooden_fencing{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/template_noop)
+"hO" = (
+/obj/machinery/oven,
+/obj/machinery/light/warm/directional/west,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/template_noop)
+"hQ" = (
+/turf/open/floor/carpet/donk,
+/area/template_noop)
+"hX" = (
+/obj/structure/bonfire/prelit,
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"il" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/visible/layer2,
+/obj/structure/cable,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/template_noop)
+"iE" = (
+/obj/structure/cable,
+/obj/structure/showcase/machinery/microwave,
+/obj/structure/table,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"iJ" = (
+/turf/open/floor/carpet/red,
+/area/template_noop)
+"iP" = (
+/obj/item/clothing/suit/jacket/trenchcoat,
+/obj/item/clothing/suit/jacket/trenchcoat,
+/obj/item/clothing/suit/jacket/primitive_catgirl_coat,
+/obj/item/clothing/suit/hooded/wintercoat/custom,
+/obj/item/clothing/suit/furcoat,
+/obj/item/clothing/suit/furcoat,
+/obj/item/clothing/shoes/winterboots/ice_boots,
+/obj/item/clothing/shoes/winterboots/ice_boots,
+/obj/item/clothing/shoes/winterboots,
+/obj/item/clothing/shoes/winterboots,
+/obj/item/clothing/shoes/russian,
+/obj/structure/closet/cabinet,
+/turf/open/floor/wood,
+/area/template_noop)
+"iV" = (
+/obj/machinery/light/warm/directional/west,
+/obj/structure/rack/wooden,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/template_noop)
+"iW" = (
+/obj/machinery/chem_dispenser/drinks/fullupgrade{
+	pixel_y = 6
+	},
+/obj/structure/table,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"jh" = (
+/obj/item/toy/xmas_cracker,
+/turf/open/floor/asphalt,
+/area/template_noop)
+"kh" = (
+/obj/item/serviette_used{
+	pixel_x = -6;
+	pixel_y = 9
+	},
+/obj/item/newspaper,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"kk" = (
+/obj/structure/chair/sofa/left/maroon,
+/turf/open/floor/carpet/black,
+/area/template_noop)
+"kw" = (
+/obj/structure/closet/wardrobe/white,
+/turf/open/floor/wood,
+/area/template_noop)
+"kB" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/obj/structure/bookcase/random/reference,
+/obj/item/book,
+/obj/item/book,
+/obj/item/book,
+/obj/item/book,
+/turf/open/floor/plating,
+/area/template_noop)
+"kG" = (
+/obj/structure/cable,
+/obj/item/reagent_containers/cup/bowl/wood_bowl{
+	pixel_y = 20;
+	pixel_x = 15
+	},
+/turf/open/floor/wood,
+/area/template_noop)
+"lh" = (
+/obj/structure/closet/crate/bin,
+/obj/item/storage/bag/trash,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"lB" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/obj/structure/bookcase/random/adult,
+/obj/item/book,
+/obj/item/book,
+/turf/open/floor/plating,
+/area/template_noop)
+"lC" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/obj/machinery/airalarm/directional/west,
+/obj/effect/turf_decal/weather/snow,
+/obj/machinery/atmospherics/pipe/multiz/scrubbers/hidden/layer2{
+	dir = 4
+	},
+/obj/machinery/atmospherics/pipe/multiz/supply/hidden/layer4{
+	dir = 4
+	},
+/obj/structure/cable/multilayer/connected,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/template_noop)
+"lP" = (
+/obj/machinery/light/floor,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"lV" = (
+/obj/structure/mineral_door/wood,
+/obj/structure/fans/tiny,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"mb" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"mf" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/obj/structure/bookcase/manuals,
+/turf/open/floor/plating,
+/area/template_noop)
+"mo" = (
+/obj/structure/cable,
+/obj/item/storage/bag/trash,
+/turf/open/floor/wood,
+/area/template_noop)
+"mO" = (
+/obj/structure/cable,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"nd" = (
+/obj/structure/mineral_door/paperframe,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/visible/layer2,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"np" = (
+/obj/item/trash/vendor_trash/rice_crackers,
+/obj/structure/mop_bucket/janitorialcart,
+/obj/item/mop/advanced,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/template_noop)
+"ny" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/structure/table/reinforced,
+/obj/item/reagent_containers/cup/glass/coffee,
+/obj/item/storage/fancy/coffee_condi_display{
+	pixel_x = -13;
+	pixel_y = 11
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/template_noop)
+"nJ" = (
+/obj/effect/turf_decal/weather/snow,
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"nS" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/railing{
+	dir = 4
+	},
+/turf/open/openspace,
+/area/template_noop)
+"nV" = (
+/obj/effect/turf_decal/weather/snow/corner,
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 1
+	},
+/turf/open/floor/asphalt,
+/area/template_noop)
+"pi" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/structure/cable,
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"pk" = (
+/obj/effect/turf_decal/siding/wood/end{
+	dir = 4
+	},
+/obj/machinery/light/floor,
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"pv" = (
+/turf/closed/wall/mineral/wood,
+/area/template_noop)
+"pN" = (
+/obj/structure/sink/kitchen{
+	pixel_x = -1;
+	pixel_y = 9
+	},
+/obj/structure/table/reinforced,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/template_noop)
+"pP" = (
+/obj/structure/table,
+/obj/item/storage/box/cups,
+/obj/item/storage/box/drinkingglasses{
+	pixel_y = 6
+	},
+/turf/open/floor/carpet/black,
+/area/template_noop)
+"qo" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/obj/structure/bookcase/random/adult,
+/obj/item/book,
+/turf/open/floor/plating,
+/area/template_noop)
+"qq" = (
+/obj/structure/chair/comfy/brown{
+	dir = 4
+	},
+/turf/open/floor/carpet/red,
+/area/template_noop)
+"qH" = (
+/obj/machinery/portable_atmospherics/canister/air,
+/turf/open/floor/carpet/donk,
+/area/template_noop)
+"qI" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"qN" = (
+/obj/structure/cable,
+/obj/structure/filingcabinet{
+	pixel_x = 12
+	},
+/turf/open/floor/wood/large,
+/area/template_noop)
+"rl" = (
+/obj/effect/turf_decal/weather/snow/corner,
+/obj/machinery/porta_turret/centcom_shuttle/weak{
+	system_id = "Andera";
+	req_access = list("maint_tunnels");
+	pixel_y = 20;
+	pixel_x = -9
+	},
+/turf/open/floor/asphalt,
+/area/template_noop)
+"ro" = (
+/obj/structure/fence{
+	dir = 4
+	},
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"rp" = (
+/obj/structure/bookcase/random/adult,
+/obj/item/book,
+/obj/item/book,
+/obj/item/book,
+/turf/closed/wall/mineral/wood,
+/area/template_noop)
+"sj" = (
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 6
+	},
+/obj/structure/chair/wood,
+/turf/open/floor/asphalt,
+/area/template_noop)
+"ss" = (
+/obj/structure/chair/sofa/corp{
+	dir = 1
+	},
+/turf/open/floor/carpet/red,
+/area/template_noop)
+"sv" = (
+/obj/item/gps/computer,
+/turf/open/floor/plating,
+/area/template_noop)
+"sK" = (
+/obj/machinery/door/airlock/wood,
+/obj/machinery/atmospherics/pipe/smart/manifold/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold/scrubbers/hidden/layer2,
+/turf/open/floor/plastic,
+/area/template_noop)
+"sT" = (
+/obj/structure/fence/corner{
+	dir = 8
+	},
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"td" = (
+/obj/item/storage/bag/plants/portaseeder,
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"tz" = (
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 10
+	},
+/turf/open/floor/asphalt,
+/area/template_noop)
+"tI" = (
+/obj/structure/reagent_dispensers/watertank/high,
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"tM" = (
+/obj/structure/closet/mini_fridge,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"tP" = (
+/obj/structure/trash_pile,
+/turf/open/floor/asphalt,
+/area/template_noop)
+"ua" = (
+/obj/structure/cable,
+/turf/open/floor/wood/parquet,
+/area/template_noop)
+"ue" = (
+/obj/structure/chair/sofa/corp{
+	dir = 8
+	},
+/turf/open/floor/carpet/red,
+/area/template_noop)
+"uk" = (
+/obj/structure/table/reinforced,
+/obj/item/reagent_containers/condiment/enzyme,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/template_noop)
+"uD" = (
+/turf/open/floor/iron/kitchen/diagonal,
+/area/template_noop)
+"uM" = (
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/wood/parquet,
+/area/template_noop)
+"uY" = (
+/obj/item/paper/crumpled,
+/obj/item/serviette_used{
+	pixel_x = 12
+	},
+/obj/effect/spawner/random/trash/crushed_can,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"vh" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"vm" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Bronze"
+	},
+/turf/open/floor/asphalt,
+/area/template_noop)
+"wa" = (
+/obj/structure/chair/sofa/corp/corner,
+/turf/open/floor/wood,
+/area/template_noop)
+"wp" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/obj/structure/bookcase/random/fiction,
+/obj/item/book,
+/obj/item/book,
+/turf/open/floor/plating,
+/area/template_noop)
+"wE" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 9
+	},
+/obj/structure/table/wood/fancy/red,
+/turf/open/floor/wood/parquet,
+/area/template_noop)
+"wM" = (
+/obj/structure/mineral_door/paperframe,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"xi" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/railing{
+	dir = 5
+	},
+/turf/open/openspace,
+/area/template_noop)
+"xl" = (
+/obj/structure/closet/wardrobe/pjs,
+/obj/item/clothing/under/misc/pj/blue,
+/obj/item/clothing/under/misc/pj/blue,
+/obj/item/clothing/under/misc/pj/red,
+/obj/item/clothing/under/misc/pj/red,
+/obj/item/clothing/under/misc/pj/red,
+/turf/open/floor/wood,
+/area/template_noop)
+"xm" = (
+/obj/effect/spawner/random/engineering/tank,
+/turf/open/floor/asphalt,
+/area/template_noop)
+"xJ" = (
+/obj/machinery/smartfridge/wooden/seed_shelf,
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"xQ" = (
+/obj/structure/table/wood/fancy/red,
+/obj/effect/turf_decal/siding/wood{
+	dir = 5
+	},
+/turf/open/floor/wood/parquet,
+/area/template_noop)
+"ys" = (
+/obj/structure/fence/door,
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"yt" = (
+/obj/structure/cable,
+/obj/structure/tank_dispenser/oxygen,
+/turf/open/floor/wood,
+/area/template_noop)
+"yC" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/obj/structure/bookcase/random/religion,
+/obj/item/book,
+/obj/item/book,
+/obj/item/book,
+/obj/item/book,
+/obj/item/book,
+/turf/open/floor/plating,
+/area/template_noop)
+"yF" = (
+/obj/item/serviette_used{
+	pixel_x = 18;
+	pixel_y = 17
+	},
+/obj/effect/spawner/random/trash,
+/obj/effect/spawner/random/trash{
+	pixel_x = -14;
+	pixel_y = -10
+	},
+/turf/open/floor/wood/large,
+/area/template_noop)
+"yL" = (
+/obj/structure/chair/sofa/corp/left{
+	dir = 1
+	},
+/turf/open/floor/carpet/red,
+/area/template_noop)
+"yT" = (
+/obj/structure/closet/crate/trashcart,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/asphalt,
+/area/template_noop)
+"yX" = (
+/obj/structure/rack,
+/turf/open/floor/plating,
+/area/template_noop)
+"zC" = (
+/obj/structure/chair/sofa/middle/maroon,
+/turf/open/floor/carpet/black,
+/area/template_noop)
+"zE" = (
+/obj/structure/closet,
+/obj/item/shovel,
+/obj/item/fireaxe,
+/obj/item/hatchet/wooden,
+/obj/item/flashlight,
+/obj/item/flashlight,
+/turf/open/floor/wood/parquet,
+/area/template_noop)
+"An" = (
+/obj/structure/closet/cabinet,
+/obj/item/clothing/under/colonial,
+/obj/item/clothing/under/colonial,
+/obj/item/clothing/under/frontier_colonist,
+/obj/item/clothing/under/frontier_colonist,
+/obj/item/clothing/under/misc/assistantformal,
+/obj/item/clothing/under/rank/cargo/tech/nova,
+/turf/open/floor/wood,
+/area/template_noop)
+"At" = (
+/obj/machinery/light/floor,
+/turf/open/floor/stone,
+/area/template_noop)
+"AD" = (
+/obj/machinery/space_heater{
+	icon_state = "sheater-standby";
+	pixel_x = -10;
+	pixel_y = 2;
+	anchored = 1
+	},
+/obj/structure/closet/secure_closet/freezer/kitchen/all_access{
+	pixel_x = 8
+	},
+/obj/item/reagent_containers/cup/soup_pot{
+	pixel_x = -8;
+	pixel_y = 12
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/template_noop)
+"AI" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/structure/closet/secure_closet/freezer/kitchen/all_access{
+	pixel_x = -8
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/template_noop)
+"Bh" = (
+/obj/structure/table/reinforced,
+/obj/structure/showcase/machinery/microwave,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/template_noop)
+"Bk" = (
+/obj/machinery/atmospherics/pipe/smart/manifold/supply/hidden/layer4,
+/turf/open/floor/plastic,
+/area/template_noop)
+"Bn" = (
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 4
+	},
+/obj/structure/chair/wood{
+	dir = 4
+	},
+/turf/open/floor/asphalt,
+/area/template_noop)
+"BK" = (
+/obj/item/pickaxe/emergency,
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"CC" = (
+/obj/structure/trash_pile,
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"CI" = (
+/turf/open/openspace,
+/area/template_noop)
+"CS" = (
+/obj/item/storage/bag/trash,
+/obj/structure/closet/crate/bin,
+/turf/open/floor/wood,
+/area/template_noop)
+"CT" = (
+/obj/structure/chair/sofa/corp/right{
+	dir = 8
+	},
+/turf/open/floor/carpet/red,
+/area/template_noop)
+"DB" = (
+/obj/structure/lattice/catwalk,
+/turf/open/openspace,
+/area/template_noop)
+"DI" = (
+/obj/machinery/light/floor,
+/turf/open/floor/wood,
+/area/template_noop)
+"DQ" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 10
+	},
+/obj/machinery/light/floor,
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"Ea" = (
+/obj/structure/chair/sofa/corner/maroon{
+	dir = 4
+	},
+/turf/open/floor/carpet/black,
+/area/template_noop)
+"Eq" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/turf/open/floor/asphalt,
+/area/template_noop)
+"ER" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"Fl" = (
+/obj/structure/table,
+/obj/item/binoculars{
+	pixel_y = 2
+	},
+/turf/open/floor/carpet/black,
+/area/template_noop)
+"Fs" = (
+/obj/item/storage/fancy/candle_box/vanilla,
+/obj/item/storage/fancy/candle_box/vanilla,
+/obj/item/storage/fancy/candle_box/vanilla,
+/obj/item/storage/fancy/candle_box/vanilla,
+/obj/structure/closet/crate/wooden,
+/obj/item/lighter,
+/turf/open/floor/wood,
+/area/template_noop)
+"FZ" = (
+/obj/structure/table/wood/fancy,
+/obj/item/trash/boritos{
+	pixel_y = -8;
+	pixel_x = -20
+	},
+/obj/item/modular_computer/laptop,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"Gi" = (
+/obj/machinery/turretid{
+	system_id = "Andera";
+	name = "home defence system"
+	},
+/turf/closed/wall/mineral/stone,
+/area/template_noop)
+"Go" = (
+/obj/structure/cable,
+/obj/machinery/power/rtg/old_station{
+	power_gen = 1500
+	},
+/turf/open/floor/plating,
+/area/template_noop)
+"Gw" = (
+/obj/structure/chair/sofa/corp/corner{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/template_noop)
+"GC" = (
+/obj/structure/cable,
+/obj/machinery/light/floor,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"GF" = (
+/obj/machinery/oven/range,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/template_noop)
+"GM" = (
+/obj/structure/fence,
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"GO" = (
+/obj/machinery/rnd/production/colony_lathe,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/template_noop)
+"GQ" = (
+/obj/machinery/computer/security/wooden_tv,
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Bronze"
+	},
+/turf/open/floor/carpet/red,
+/area/template_noop)
+"Hm" = (
+/obj/item/stack/sheet/cardboard/fifty,
+/turf/open/floor/plating,
+/area/template_noop)
+"Hw" = (
+/obj/structure/cable,
+/obj/effect/spawner/structure/window/reinforced/no_firelock{
+	color = "#663300"
+	},
+/turf/open/floor/plating,
+/area/template_noop)
+"HJ" = (
+/obj/machinery/pollution_scrubber,
+/obj/structure/table/wood/fancy,
+/turf/open/floor/carpet/red,
+/area/template_noop)
+"Ih" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/railing{
+	dir = 1
+	},
+/turf/open/openspace,
+/area/template_noop)
+"In" = (
+/obj/item/stack/sheet/rglass/fifty,
+/obj/item/stack/sheet/plastic/fifty,
+/obj/item/stack/sheet/iron/fifty,
+/obj/item/stack/sheet/iron/fifty,
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/template_noop)
+"Ir" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood/corner,
+/obj/structure/extinguisher_cabinet,
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"IM" = (
+/turf/closed/mineral/random/snow,
+/area/template_noop)
+"IS" = (
+/obj/item/trash/boritos/purple,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/asphalt,
+/area/template_noop)
+"Jd" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/asphalt,
+/area/template_noop)
+"Je" = (
+/obj/item/serviette_used,
+/obj/structure/chair/office{
+	dir = 1
+	},
+/obj/effect/spawner/random/trash/crushed_can{
+	pixel_x = 21
+	},
+/turf/open/floor/wood/large,
+/area/template_noop)
+"Ji" = (
+/obj/item/flatpacked_machine/gps_beacon,
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"Jm" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"JF" = (
+/obj/structure/fake_stairs/wood/directional/north,
+/turf/open/floor/wood/parquet,
+/area/template_noop)
+"Kg" = (
+/obj/structure/sauna_oven,
+/turf/open/floor/wood,
+/area/template_noop)
+"Ko" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 6
+	},
+/obj/structure/cable,
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"KE" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/obj/effect/turf_decal/weather/snow/corner,
+/turf/open/floor/asphalt,
+/area/template_noop)
+"KI" = (
+/obj/machinery/porta_turret/centcom_shuttle/weak{
+	system_id = "Andera";
+	req_access = list("maint_tunnels");
+	pixel_y = 20;
+	pixel_x = 11
+	},
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"KQ" = (
+/obj/effect/turf_decal/siding/wood/corner,
+/obj/structure/cable,
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"KR" = (
+/obj/structure/chair/sofa/left/maroon,
+/turf/open/floor/wood,
+/area/template_noop)
+"KZ" = (
+/turf/open/floor/wood/large,
+/area/template_noop)
+"Lc" = (
+/obj/structure/cable,
+/obj/machinery/door/airlock/wood,
+/turf/open/floor/wood,
+/area/template_noop)
+"Lh" = (
+/obj/structure/table/reinforced,
+/obj/structure/closet/mini_fridge,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/template_noop)
+"Lj" = (
+/obj/machinery/atmospherics/pipe/multiz/supply/hidden/layer4{
+	dir = 4
+	},
+/obj/machinery/atmospherics/pipe/multiz/scrubbers/hidden/layer2{
+	dir = 4
+	},
+/obj/structure/cable/multilayer/connected,
+/obj/structure/cable,
+/obj/machinery/power/apc/auto_name/directional/west,
+/turf/open/floor/plating,
+/area/template_noop)
+"Ly" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/structure/cable,
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"LL" = (
+/obj/structure/stairs/wood{
+	dir = 1
+	},
+/turf/open/indestructible/stone,
+/area/template_noop)
+"LP" = (
+/obj/machinery/atmospherics/components/tank/air{
+	piping_layer = 4
+	},
+/turf/open/floor/asphalt,
+/area/template_noop)
+"LR" = (
+/obj/structure/bed/pod,
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/turf/open/floor/wood,
+/area/template_noop)
+"MR" = (
+/obj/structure/reagent_dispensers/watertank/high,
+/turf/open/floor/wood,
+/area/template_noop)
+"MV" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood/corner,
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"Nf" = (
+/obj/structure/table/reinforced,
+/obj/item/kitchen/tongs,
+/obj/item/kitchen/spoon/soup_ladle,
+/obj/item/knife/kitchen{
+	pixel_x = 11
+	},
+/obj/item/kitchen/rollingpin{
+	pixel_x = -10;
+	pixel_y = 6
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/template_noop)
+"Nk" = (
+/obj/effect/spawner/random/trash/mess,
+/turf/open/floor/plating,
+/area/template_noop)
+"Nn" = (
+/obj/machinery/portable_atmospherics/canister/air,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/template_noop)
+"Nt" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/asphalt,
+/area/template_noop)
+"Ny" = (
+/obj/item/trash/waffles,
+/turf/open/floor/asphalt,
+/area/template_noop)
+"NT" = (
+/obj/machinery/porta_turret/centcom_shuttle/weak{
+	system_id = "Andera";
+	req_access = list("maint_tunnels");
+	pixel_y = 20
+	},
+/turf/open/floor/asphalt,
+/area/template_noop)
+"NZ" = (
+/obj/structure/cable,
+/obj/machinery/door/airlock/wood,
+/turf/open/floor/plating,
+/area/template_noop)
+"Of" = (
+/obj/machinery/seed_extractor{
+	pixel_x = 13
+	},
+/turf/closed/wall/mineral/stone,
+/area/template_noop)
+"Oq" = (
+/obj/structure/cable,
+/obj/machinery/space_heater{
+	icon_state = "sheater-standby"
+	},
+/turf/open/floor/wood/large,
+/area/template_noop)
+"Oz" = (
+/obj/structure/chair/sofa/corp,
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/turf/open/floor/wood,
+/area/template_noop)
+"OX" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"Pq" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/visible/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/template_noop)
+"PE" = (
+/obj/machinery/light/warm/directional/west,
+/obj/structure/cable,
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"PM" = (
+/obj/item/seeds/cannabis,
+/obj/item/seeds/apple,
+/obj/item/seeds/cotton,
+/obj/item/seeds/coffee/robusta,
+/obj/item/seeds/tea,
+/obj/item/seeds/tea/catnip,
+/obj/item/seeds/tomato,
+/obj/item/seeds/wheat,
+/obj/item/seeds/wheat/rice,
+/obj/item/seeds/wheat/oat,
+/obj/item/seeds/tower,
+/obj/item/seeds/poppy/lily,
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"PO" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"PQ" = (
+/obj/structure/cable,
+/obj/machinery/portable_atmospherics/canister/air,
+/turf/open/floor/wood,
+/area/template_noop)
+"PU" = (
+/obj/structure/sign/poster/contraband/donut_corp/directional/west,
+/obj/structure/chair/sofa/right/maroon{
+	dir = 4
+	},
+/turf/open/floor/carpet/black,
+/area/template_noop)
+"Qx" = (
+/turf/open/floor/wood/parquet,
+/area/template_noop)
+"QB" = (
+/obj/structure/closet/crate/bin,
+/obj/item/storage/bag/trash,
+/turf/open/floor/wood,
+/area/template_noop)
+"QT" = (
+/obj/structure/mineral_door/wood,
+/obj/structure/fans/tiny,
+/turf/open/floor/wood/parquet,
+/area/template_noop)
+"Ro" = (
+/obj/structure/dresser,
+/obj/item/paper_bin{
+	pixel_y = 14
+	},
+/turf/open/floor/wood/large,
+/area/template_noop)
+"Rz" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/obj/structure/bookcase/manuals/engineering,
+/turf/open/floor/plating,
+/area/template_noop)
+"RJ" = (
+/obj/structure/fence/door{
+	dir = 4
+	},
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"RS" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/structure/table/reinforced,
+/obj/machinery/coffeemaker,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/template_noop)
+"Si" = (
+/obj/machinery/porta_turret/centcom_shuttle/weak{
+	system_id = "Andera";
+	req_access = list("maint_tunnels");
+	pixel_y = 18;
+	pixel_x = -13
+	},
+/turf/open/floor/asphalt,
+/area/template_noop)
+"Sx" = (
+/turf/open/floor/wood,
+/area/template_noop)
+"SF" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/machinery/light/floor,
+/obj/structure/cable,
+/turf/open/floor/wood,
+/area/template_noop)
+"SV" = (
+/obj/structure/chair/comfy/brown{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/template_noop)
+"SY" = (
+/obj/machinery/atmospherics/pipe/smart/manifold/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/components/unary/vent_pump/high_volume/on/layer4{
+	dir = 4
+	},
+/turf/open/floor/plastic,
+/area/template_noop)
+"Tx" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/structure/cable,
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"TB" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 6
+	},
+/obj/machinery/light/floor,
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"TJ" = (
+/obj/structure/mineral_door/wood,
+/obj/structure/fans/tiny,
+/turf/open/floor/plating,
+/area/template_noop)
+"TW" = (
+/obj/item/condom_pack,
+/obj/item/condom_pack,
+/obj/item/condom_pack,
+/obj/item/condom_pack,
+/obj/item/clothing/sextoy/magic_wand,
+/obj/structure/closet/secure_closet/personal/cabinet,
+/obj/item/clothing/mask/ballgag,
+/obj/item/clothing/sextoy/dildo,
+/obj/item/clothing/neck/human_petcollar/locked,
+/obj/item/clothing/under/costume/bunnylewd,
+/obj/item/clothing/under/costume/maid,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"TX" = (
+/obj/structure/cable,
+/obj/structure/chair/sofa/middle/maroon{
+	dir = 1
+	},
+/turf/open/floor/wood/parquet,
+/area/template_noop)
+"TY" = (
+/obj/structure/decorative/shelf/crates1,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/template_noop)
+"UD" = (
+/obj/structure/sauna_oven,
+/obj/structure/sauna_oven,
+/turf/open/floor/wood,
+/area/template_noop)
+"UG" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/machinery/door/airlock/multi_tile/public{
+	dir = 8;
+	color = "#663300"
+	},
+/obj/structure/cable,
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"US" = (
+/obj/structure/cable,
+/obj/structure/fake_stairs/wood/directional/north,
+/turf/open/floor/wood/parquet,
+/area/template_noop)
+"Vg" = (
+/obj/structure/reagent_dispensers/water_cooler{
+	pixel_x = -8
+	},
+/turf/open/floor/wood,
+/area/template_noop)
+"Vo" = (
+/obj/machinery/ammo_workbench,
+/turf/open/floor/wood,
+/area/template_noop)
+"Vt" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/high_volume/on/layer4{
+	dir = 1
+	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/visible/layer2,
+/obj/structure/cable,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/template_noop)
+"VG" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/template_noop)
+"VP" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/obj/structure/bookcase/random/religion,
+/obj/item/book,
+/obj/item/book,
+/turf/open/floor/plating,
+/area/template_noop)
+"Wu" = (
+/obj/machinery/griddle,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/template_noop)
+"WV" = (
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/template_noop)
+"Xo" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/machinery/light/floor,
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"XA" = (
+/obj/structure/statue/snow/snowman,
+/turf/open/misc/asteroid/snow/icemoon,
+/area/template_noop)
+"XV" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/obj/structure/bookcase/random/adult,
+/obj/item/book,
+/obj/item/book,
+/obj/item/book,
+/turf/open/floor/plating,
+/area/template_noop)
+"Yu" = (
+/obj/structure/chair/sofa/middle/maroon{
+	dir = 4
+	},
+/turf/open/floor/carpet/black,
+/area/template_noop)
+"YD" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/machinery/light/floor,
+/turf/open/floor/carpet/blue,
+/area/template_noop)
+"YH" = (
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on";
+	picked_color = "Burgundy"
+	},
+/obj/structure/bookcase/random/reference,
+/obj/item/book,
+/obj/item/book,
+/turf/open/floor/plating,
+/area/template_noop)
+"YI" = (
+/obj/structure/table/wood/fancy/red,
+/obj/structure/marker_beacon{
+	icon_state = "markerbronze-on"
+	},
+/turf/open/floor/wood/parquet,
+/area/template_noop)
+"YP" = (
+/obj/structure/closet/secure_closet/wall{
+	pixel_x = -26
+	},
+/obj/item/clothing/suit/woolcoat,
+/obj/item/clothing/suit/woolcoat,
+/obj/item/clothing/suit/koreacoat,
+/obj/item/clothing/suit/modernwintercoatthing,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"Zb" = (
+/obj/structure/sink{
+	pixel_y = -8
+	},
+/obj/structure/table/reinforced{
+	pixel_y = 2;
+	layer = 3
+	},
+/obj/structure/mirror{
+	pixel_y = 27
+	},
+/turf/open/floor/plastic,
+/area/template_noop)
+"Zd" = (
+/obj/item/reagent_containers/cup/bucket/wooden,
+/turf/open/floor/wood,
+/area/template_noop)
+"Zw" = (
+/obj/structure/barricade/wooden/snowed,
+/turf/open/floor/plating/snowed/temperatre,
+/area/template_noop)
+"Zy" = (
+/obj/structure/chair/sofa/right/maroon,
+/turf/open/floor/wood,
+/area/template_noop)
+"ZD" = (
+/obj/structure/cable,
+/obj/structure/closet/crate/bin,
+/obj/item/storage/bag/trash,
+/turf/open/floor/wood/parquet,
+/area/template_noop)
+"ZQ" = (
+/obj/item/food/vendor_snacks/rice_crackers,
+/obj/item/food/vendor_snacks/rice_crackers,
+/obj/item/food/vendor_snacks/moth_bag/cheesecake/honey,
+/obj/effect/spawner/random/food_or_drink/snack,
+/obj/effect/spawner/random/food_or_drink/snack,
+/obj/effect/spawner/random/food_or_drink/snack,
+/obj/effect/spawner/random/food_or_drink/donuts,
+/obj/effect/spawner/random/food_or_drink/donuts,
+/obj/effect/spawner/random/food_or_drink/donuts,
+/obj/effect/spawner/random/food_or_drink/donuts,
+/obj/structure/closet/crate/wooden{
+	pixel_y = 3
+	},
+/turf/open/floor/wood/large,
+/area/template_noop)
+"ZX" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
+	dir = 1
+	},
+/obj/structure/cable,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/template_noop)
+
+(1,1,1) = {"
+ab
+ab
+ab
+ab
+ab
+ab
+IM
+IM
+IM
+IM
+IM
+aC
+ab
+ab
+aC
+ab
+aa
+ab
+ab
+ab
+aC
+ab
+IM
+ab
+ab
+ab
+ab
+ab
+ab
+"}
+(2,1,1) = {"
+ab
+ab
+ab
+ab
+ab
+IM
+IM
+IM
+IM
+IM
+IM
+IM
+aQ
+aQ
+ab
+ab
+aa
+ab
+aC
+ab
+ab
+aC
+ab
+IM
+aQ
+aQ
+aQ
+aQ
+aQ
+"}
+(3,1,1) = {"
+ab
+ab
+ab
+KI
+IM
+IM
+IM
+IM
+IM
+IM
+ab
+ab
+aC
+ab
+aQ
+aQ
+ay
+ay
+ay
+ay
+ay
+ay
+ay
+ay
+tz
+ay
+ay
+ay
+aa
+"}
+(4,1,1) = {"
+ab
+ab
+ab
+IM
+IM
+IM
+IM
+IM
+ab
+ab
+ab
+ab
+ab
+ab
+ab
+ab
+ag
+ah
+ah
+aS
+ai
+ah
+am
+am
+nV
+am
+ah
+ab
+ab
+"}
+(5,1,1) = {"
+sT
+aX
+aX
+aX
+aX
+aX
+aX
+aX
+aX
+aX
+aX
+RJ
+aX
+aX
+aX
+aX
+ay
+ay
+ay
+ay
+ay
+ay
+ay
+ay
+rl
+ah
+ak
+ay
+aO
+"}
+(6,1,1) = {"
+ys
+BK
+ax
+ax
+ab
+XA
+aP
+ab
+ab
+aC
+aO
+ab
+aC
+aP
+ab
+ab
+ay
+al
+lC
+ay
+an
+ao
+ap
+ay
+aE
+ah
+ah
+ay
+ab
+"}
+(7,1,1) = {"
+ys
+ab
+ax
+ax
+KI
+ab
+ab
+ab
+aC
+ab
+ab
+aO
+aO
+ab
+ab
+aC
+ay
+ay
+ar
+ay
+Zb
+SY
+bc
+ay
+aE
+ah
+at
+ay
+ab
+"}
+(8,1,1) = {"
+ys
+ab
+ab
+ab
+ab
+ab
+ab
+ab
+ab
+ab
+aC
+ab
+ab
+aC
+ab
+ab
+ay
+fq
+bE
+ay
+av
+Bk
+aw
+ay
+aE
+ah
+ah
+ay
+aO
+"}
+(9,1,1) = {"
+el
+aC
+dV
+ab
+ab
+ab
+aC
+ab
+ax
+ab
+ab
+aO
+ab
+ab
+ab
+aB
+ay
+au
+bE
+ay
+ay
+sK
+ay
+ay
+aE
+ah
+ak
+ay
+aO
+"}
+(10,1,1) = {"
+el
+ab
+ax
+ay
+ay
+ay
+ay
+ay
+ay
+ay
+ay
+bC
+ay
+aq
+Hw
+ay
+ay
+aH
+bE
+ay
+LL
+At
+aN
+aF
+af
+en
+en
+tz
+ab
+"}
+(11,1,1) = {"
+el
+ax
+ab
+aq
+pN
+uk
+hO
+Wu
+Wu
+Bh
+ay
+Sx
+SV
+SV
+bE
+aG
+ay
+aY
+bE
+ay
+aM
+aJ
+aN
+ay
+NT
+af
+vm
+cj
+ab
+"}
+(12,1,1) = {"
+el
+aC
+ax
+aq
+Nf
+uD
+uD
+uD
+uD
+uD
+ay
+Zy
+wE
+aA
+gc
+hQ
+aV
+Sx
+bE
+ay
+LL
+At
+aN
+aF
+af
+ah
+ag
+ay
+aO
+"}
+(13,1,1) = {"
+el
+ax
+ax
+aq
+AD
+uD
+GF
+Lh
+az
+uD
+ay
+aI
+as
+YI
+TX
+bw
+SF
+bE
+bE
+eR
+hI
+Sx
+Sx
+ay
+af
+ah
+ah
+ay
+aQ
+"}
+(14,1,1) = {"
+el
+ab
+ax
+aq
+AI
+VG
+RS
+ny
+hj
+VG
+ay
+KR
+xQ
+aL
+ad
+hQ
+aV
+Sx
+bE
+aN
+aN
+aN
+iP
+Hw
+af
+ah
+ag
+ay
+aQ
+"}
+(15,1,1) = {"
+el
+aC
+ab
+aq
+zE
+Qx
+Qx
+Qx
+Qx
+uM
+JF
+Qx
+Qx
+Qx
+ua
+hQ
+Gi
+fj
+kG
+aN
+aN
+aN
+An
+Hw
+af
+ah
+ah
+ay
+IM
+"}
+(16,1,1) = {"
+el
+aC
+ab
+aq
+ua
+ua
+ZD
+ua
+ua
+ac
+US
+bE
+bE
+bE
+bE
+qH
+ay
+aZ
+mo
+QB
+Sx
+yt
+PQ
+Hw
+af
+ah
+ah
+ay
+IM
+"}
+(17,1,1) = {"
+ro
+ab
+ab
+ay
+QT
+Of
+aq
+aq
+aq
+ay
+ay
+TJ
+ay
+Hw
+ay
+ay
+ay
+ay
+Hw
+Hw
+Hw
+Hw
+ay
+ay
+af
+ah
+ak
+ay
+IM
+"}
+(18,1,1) = {"
+el
+ab
+ab
+ER
+ab
+ER
+ab
+PM
+tI
+ay
+IM
+ab
+nJ
+Ji
+hq
+IM
+bb
+Jd
+Nt
+Jd
+af
+Eq
+af
+af
+Si
+af
+af
+ay
+IM
+"}
+(19,1,1) = {"
+ro
+ab
+ab
+ab
+ab
+ab
+ab
+td
+xJ
+ay
+IM
+ab
+ab
+ab
+hf
+IM
+LP
+Jd
+Jd
+IS
+Jd
+Jd
+af
+af
+af
+af
+jh
+IM
+IM
+"}
+(20,1,1) = {"
+el
+ab
+ab
+ER
+ab
+ER
+ab
+ER
+ab
+ay
+IM
+IM
+IM
+IM
+IM
+IM
+LP
+Jd
+yT
+dP
+Jd
+Jd
+ai
+ah
+ah
+ai
+ah
+IM
+IM
+"}
+(21,1,1) = {"
+ro
+ab
+ab
+ab
+ab
+ab
+ab
+ab
+ab
+ay
+IM
+IM
+IM
+IM
+IM
+IM
+tP
+Jd
+yT
+yT
+Jd
+Jd
+IM
+ab
+bd
+Zw
+Zw
+IM
+IM
+"}
+(22,1,1) = {"
+el
+ab
+ab
+ER
+ab
+ER
+ab
+fD
+ab
+ay
+IM
+IM
+IM
+IM
+IM
+IM
+tP
+Ny
+af
+af
+af
+af
+Bn
+gO
+gO
+gO
+gO
+IM
+IM
+"}
+(23,1,1) = {"
+ro
+ab
+ab
+ab
+ab
+ab
+ab
+ab
+ab
+ay
+IM
+IM
+IM
+IM
+IM
+IM
+Eq
+xm
+af
+af
+gO
+sj
+hX
+aa
+aa
+aa
+aO
+aO
+IM
+"}
+(24,1,1) = {"
+gw
+GM
+aX
+GM
+aX
+GM
+aX
+GM
+aX
+dI
+ab
+ab
+IM
+IM
+IM
+IM
+IM
+IM
+xm
+KE
+ab
+CC
+aO
+IM
+ab
+ab
+aa
+ab
+aQ
+"}
+(25,1,1) = {"
+ab
+aC
+ab
+ab
+aC
+ab
+ab
+aC
+ab
+ab
+ab
+aC
+IM
+IM
+IM
+IM
+IM
+IM
+IM
+IM
+aK
+aQ
+IM
+IM
+IM
+aK
+aQ
+aQ
+aQ
+"}
+
+(1,1,2) = {"
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+"}
+(2,1,2) = {"
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+aW
+aW
+aW
+"}
+(3,1,2) = {"
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+aW
+aW
+"}
+(4,1,2) = {"
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+aW
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+aW
+aW
+"}
+(5,1,2) = {"
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+pv
+pv
+pv
+pv
+pv
+pv
+pv
+pv
+CI
+CI
+CI
+aW
+aW
+"}
+(6,1,2) = {"
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+pv
+yX
+Lj
+Nn
+iV
+TY
+Go
+pv
+CI
+CI
+CI
+aW
+aW
+"}
+(7,1,2) = {"
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+pv
+yX
+Pq
+il
+Vt
+ZX
+In
+pv
+CI
+CI
+CI
+aW
+aW
+"}
+(8,1,2) = {"
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+pv
+Hm
+WV
+sv
+Nk
+np
+GO
+pv
+CI
+CI
+CI
+aW
+aW
+"}
+(9,1,2) = {"
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+pv
+pv
+NZ
+pv
+pv
+pv
+pv
+pv
+CI
+CI
+CI
+aW
+aW
+"}
+(10,1,2) = {"
+CI
+CI
+CI
+pv
+Hw
+Hw
+Hw
+Hw
+Hw
+pv
+Hw
+Hw
+Hw
+pv
+Hw
+Hw
+pv
+Jm
+Ly
+DQ
+CI
+Sx
+Vg
+pv
+CI
+CI
+CI
+aW
+aW
+"}
+(11,1,2) = {"
+CI
+CI
+CI
+pv
+Gw
+fN
+Sx
+Sx
+bE
+Lc
+Tx
+aN
+aT
+PE
+aT
+aT
+aT
+aT
+aT
+Xo
+CI
+Sx
+Vo
+Hw
+CI
+CI
+CI
+aW
+aW
+"}
+(12,1,2) = {"
+CI
+CI
+CI
+pv
+Oz
+Sx
+Sx
+Sx
+LR
+pv
+Ir
+mb
+mb
+PO
+KQ
+mb
+mb
+MV
+cv
+TB
+CI
+Sx
+CS
+Hw
+CI
+CI
+CI
+aW
+aW
+"}
+(13,1,2) = {"
+CI
+CI
+CI
+pv
+Oz
+DI
+Kg
+Sx
+LR
+pv
+hh
+aD
+wp
+ba
+pi
+VP
+Rz
+YD
+bE
+bE
+bE
+bE
+bE
+Hw
+CI
+CI
+CI
+aW
+aW
+"}
+(14,1,2) = {"
+CI
+CI
+CI
+pv
+Oz
+DI
+UD
+Sx
+LR
+pv
+qI
+kB
+wp
+ba
+pi
+VP
+Rz
+OX
+iJ
+iJ
+qq
+yL
+Sx
+Hw
+CI
+CI
+CI
+aW
+aW
+"}
+(15,1,2) = {"
+CI
+CI
+CI
+pv
+Oz
+Sx
+Sx
+Zd
+LR
+pv
+qI
+YH
+wp
+ba
+pi
+yC
+mf
+OX
+GQ
+iJ
+HJ
+ss
+bE
+Hw
+CI
+CI
+CI
+aW
+aW
+"}
+(16,1,2) = {"
+CI
+CI
+CI
+pv
+wa
+eg
+MR
+Fs
+LR
+pv
+qI
+hz
+qo
+ba
+pi
+lB
+mf
+OX
+iJ
+CT
+ue
+fT
+aU
+pv
+CI
+CI
+CI
+aW
+aW
+"}
+(17,1,2) = {"
+CI
+CI
+CI
+pv
+pv
+pv
+pv
+pv
+pv
+pv
+pk
+hz
+XV
+ba
+pi
+qo
+mf
+pk
+xl
+kw
+pv
+Hw
+Hw
+pv
+CI
+CI
+CI
+aW
+aW
+"}
+(18,1,2) = {"
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+Ih
+DB
+pv
+pv
+pv
+pv
+ba
+UG
+pv
+pv
+pv
+pv
+pv
+pv
+aR
+aR
+aR
+CI
+CI
+CI
+CI
+aW
+"}
+(19,1,2) = {"
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+Ih
+DB
+lV
+kh
+yF
+dW
+ba
+pi
+Ea
+Yu
+PU
+YP
+ZQ
+Hw
+aR
+aR
+aR
+CI
+CI
+CI
+CI
+aW
+"}
+(20,1,2) = {"
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+Ih
+DB
+pv
+TW
+vh
+nd
+ba
+pi
+zC
+dK
+pP
+KZ
+iW
+Hw
+aR
+aR
+aR
+CI
+CI
+CI
+CI
+aW
+"}
+(21,1,2) = {"
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+Ih
+DB
+pv
+Ro
+KZ
+wM
+fZ
+Ko
+kk
+ft
+Fl
+KZ
+tM
+Hw
+aR
+aR
+aR
+CI
+CI
+CI
+CI
+aW
+"}
+(22,1,2) = {"
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+Ih
+DB
+pv
+FZ
+Je
+dW
+ae
+mO
+KZ
+KZ
+KZ
+KZ
+iE
+Hw
+aR
+aR
+aR
+CI
+CI
+CI
+CI
+aW
+"}
+(23,1,2) = {"
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+Ih
+DB
+pv
+gF
+uY
+dW
+lh
+GC
+KZ
+KZ
+lP
+qN
+Oq
+pv
+aR
+aR
+aR
+CI
+CI
+CI
+CI
+aW
+"}
+(24,1,2) = {"
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+xi
+nS
+pv
+pv
+rp
+pv
+pv
+Hw
+Hw
+Hw
+Hw
+Hw
+pv
+pv
+aR
+aR
+aR
+CI
+CI
+CI
+aW
+aW
+"}
+(25,1,2) = {"
+aW
+aW
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+pv
+pv
+pv
+CI
+CI
+CI
+aW
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+CI
+aW
+"}
